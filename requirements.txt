@@ -1,21 +1,10 @@
-# AI & RAG
-langchain
-langchain-community
-openai
-
-# Vector Database
-chromadb
-
-# PDF Reading
-pymupdf
-
-# Web Scraping
-beautifulsoup4
-requests
-
-# API
-fastapi
-uvicorn
-
-# Database
-sqlalchemy
+langchain 
+langchain-community 
+openai 
+chromadb 
+pymupdf 
+beautifulsoup4 
+requests 
+fastapi 
+uvicorn 
+sqlalchemy 
