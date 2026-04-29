@@ -8,3 +8,6 @@ requests
 fastapi 
 uvicorn 
 sqlalchemy 
+wikipedia-api
+newspaper3k
+trafilatura
