@@ -3,7 +3,7 @@ import wikipediaapi
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 
-load_dotenv(r"C:\Users\pcc\Models\.env")
+load_dotenv()
 DATABASE_URL = os.getenv("DATABASE_URL")
 
 engine = create_engine(DATABASE_URL)
